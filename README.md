@@ -1,0 +1,2 @@
+# Translations
+Translations for LoginSecurity
