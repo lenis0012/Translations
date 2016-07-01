@@ -1,7 +1,7 @@
 {
   "localizedName": "Nederlands (NL)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis",
+  "authors": "lenis, Matsv",
   "generalNotAuthenticated": "Je bent niet geregistreerd of al ingelogd!",
   "generalNotLoggedIn": "Je bent op dit moment niet ingelogd!",
   "generalPasswordLength": "Wachtwoord moet tussen %min% en %max% tekens lang zijn!",
