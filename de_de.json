@@ -1,7 +1,7 @@
 {
   "localizedName": "Deutsch (DE)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis, Tzzzt",
+  "authors": "Tzzzt",
   "generalNotAuthenticated": "Du bist noch nicht registriert oder hast dich schon angemeldet!",
   "generalNotLoggedIn": "Du bist momentan nicht angemeldet!",
   "generalPasswordLength": "Passwörter müssen zwischen %min% und %max% Zeichen lang sein!",
