@@ -6,6 +6,12 @@
 
 English (USA) [en_us.json]
 
+Chinese (Hong Kong) [zh_hk.json]
+
+Chinese (Taiwan) [zh_tw.json]
+
+Czech (Czech Repuplic) [cz_cz.json]
+
 Dutch (Nederlands) [nl_nl.json]
 
 French (France) [fr_fr.json]
