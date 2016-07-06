@@ -4,15 +4,21 @@
 
 ### Existing translations for LoginSecurity:
 
-English (USA) [en_us.json]
+English (USA) [en_us.json] (BY: lenis0012 and Plazmaz)
 
-Dutch (Nederlands) [nl_nl.json]
+Chinese (Hong Kong) [zh_hk.json] (BY: Small-Ku)
 
-French (France) [fr_fr.json]
+Chinese (Taiwan) [zh_tw.json] (BY: Small-Ku)
 
-German (Germany) [de_de.json]
+Czech (Czech Republic) [cs_cz.json] (BY: Vilican)
 
-Spanish (Mexico) [es_mx.json]
+Dutch (Nederlands) [nl_nl.json] (BY: lenis0012 and Matsv)
+
+French (France) [fr_fr.json] (BY: Tzzzt123)
+
+German (Germany) [de_de.json] (BY: Tzzzt123)
+
+Spanish (Mexico) [es_mx.json] (BY: Plazmaz)
 
 # Contributing
 [Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)
