@@ -1,6 +1,6 @@
-# Translations for LoginSecurity
+# Translations for [LoginSecurity](https://github.com/lenis0012/LoginSecurity-2)
 
-## Hello, this are the existing translations for LoginSecurity! If you want to add own translations please click on "Contributing wiki page" and follow the steps there! Thanks!
+## Hello, these are existing translations for LoginSecurity! If you want to add own translations, please click on "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)" and follow the steps there! Thanks!
 
 ### Existing translations for LoginSecurity:
 
@@ -20,5 +20,5 @@ German (Germany) [de_de.json] (BY: Tzzzt123)
 
 Spanish (Mexico) [es_mx.json] (BY: Plazmaz)
 
-# Contributing
+#### Contributing
 [Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)
