@@ -4,7 +4,7 @@
   "authors": "Plazmaz",
   "generalNotAuthenticated": "Ye be not registered or already logged in!",
   "generalNotLoggedIn": "Yer currently not logged in! ",
-  "generalpasscodeLength": "passcode must be betwixt %min% and %max% characters!",
+  "generalpasscodeLength": "{asscode must be betwixt %min% and %max% characters!",
   "generalUnknownHash": "Yer account uses an unknown hashin' algorithm, please report this t' an admin. ",
   "loginTriesExceeded": "Exceeded max login tries: %max%",
   "loginFail": "Avast! Login failed! Invalid passcode.",
