@@ -2,7 +2,7 @@
 
 ## Hello, these are existing translations for LoginSecurity! If you want to add own translations, please click on "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)" and follow the steps there! Thanks!
 
-### Existing translations for LoginSecurity:
+### Existing translations for LoginSecurity (10):
 
 English (USA) en_us.json (BY: lenis0012 and Plazmaz)
 
@@ -17,6 +17,10 @@ Dutch (Nederlands) nl_nl.json (BY: lenis0012 and Matsv)
 French (France) fr_fr.json (BY: Tzzzt123)
 
 German (Germany) de_de.json (BY: Tzzzt123)
+
+Pirate Speak (Pirate) en_pi.json (BY: Plazmaz)
+
+Polish (Poland) pl_pl.json (BY: Martynza and krfcm)
 
 Spanish (Mexico) es_mx.json (BY: Plazmaz)
 
