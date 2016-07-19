@@ -1,28 +1,30 @@
 # Translations for [LoginSecurity](https://github.com/lenis0012/LoginSecurity-2)
 
-## Hello, these are existing translations for LoginSecurity! If you want to add own translations, please click on "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)" and follow the steps there! Thanks!
+## Hello, these are existing translations for LoginSecurity! If you'd like to add a language, please see the "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)"! Thanks!
 
-### Existing translations for LoginSecurity (10):
+### Existing translations for LoginSecurity:
 
-English (USA) en_us.json (BY: lenis0012 and Plazmaz)
+English (USA) en_us.json (Contributed By lenis0012 and Plazmaz)
 
-Chinese (Hong Kong) zh_hk.json (BY: Small-Ku)
+Chinese (Hong Kong) zh_hk.json (Contributed By Small-Ku)
 
-Chinese (Taiwan) zh_tw.json (BY: Small-Ku)
+Chinese (Taiwan) zh_tw.json (Contributed By Small-Ku)
 
-Czech (Czech Republic) cs_cz.json (BY: Vilican)
+Czech (Czech Republic) cs_cz.json (Contributed By Vilican)
 
-Dutch (Nederlands) nl_nl.json (BY: lenis0012 and Matsv)
+Dutch (Nederlands) nl_nl.json (Contributed By lenis0012 and Matsv)
 
-French (France) fr_fr.json (BY: Tzzzt123)
+French (France) fr_fr.json (Contributed By Tzzzt123)
 
-German (Germany) de_de.json (BY: Tzzzt123)
+German (Germany) de_de.json (Contributed By Tzzzt123)
 
-Pirate Speak (Pirate) en_pi.json (BY: Plazmaz)
+Pirate Speak (Pirate) en_pi.json (Contributed By Plazmaz)
 
-Polish (Poland) pl_pl.json (BY: Martynza and krfcm)
+Polish (Poland) pl_pl.json (Contributed By Martynza and krfcm)
 
-Spanish (Mexico) es_mx.json (BY: Plazmaz)
+Spanish (Mexico) es_mx.json (Contributed By Plazmaz)
+
+Thanks to everyone who's contributed translations!
 
 #### Contributing
 [Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)
