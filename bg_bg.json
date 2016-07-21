@@ -1,8 +1,8 @@
 {
   "localizedName": "Bulgarian (BG)",
   "pluginVersion": "2.1.3",
-  "authors": "Dimitar",
-  "generalNotAuthenticated": "Не си все още регистриран или не си се логнал!",
+  "authors": "TheEVIL",
+  "generalNotAuthenticated": "Не си регистриран или не си се логнал!",
   "generalNotLoggedIn": "Не си се логнал!",
   "generalPasswordLength": "Паролата трябва да е минимум %min% знака и максимум %max%!",
   "generalUnknownHash": "Твоят профил използва невалидно хеширане на паролата, моля докладвай на админ!",
