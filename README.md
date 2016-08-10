@@ -4,25 +4,29 @@
 
 ### Existing translations for LoginSecurity:
 
-English (USA) en_us.json (Contributed By lenis0012 and Plazmaz)
+English (USA) en_us.json (Contributed by lenis0012 and Plazmaz)
 
-Chinese (Hong Kong) zh_hk.json (Contributed By Small-Ku)
+Bulgarian (Bulgaria) bg_bg.json (Contributed by dianakiev)
 
-Chinese (Taiwan) zh_tw.json (Contributed By Small-Ku)
+Chinese (Hong Kong) zh_hk.json (Contributed by Small-Ku)
 
-Czech (Czech Republic) cs_cz.json (Contributed By Vilican)
+Chinese (Taiwan) zh_tw.json (Contributed by Small-Ku)
 
-Dutch (Nederlands) nl_nl.json (Contributed By lenis0012 and Matsv)
+Czech (Czech Republic) cs_cz.json (Contributed by Vilican)
 
-French (France) fr_fr.json (Contributed By Tzzzt123)
+Dutch (Nederlands) nl_nl.json (Contributed by lenis0012 and Matsv)
 
-German (Germany) de_de.json (Contributed By Tzzzt123)
+French (France) fr_fr.json (Contributed by Tzzzt123)
 
-Pirate Speak (Pirate) en_pi.json (Contributed By Plazmaz)
+German (Germany) de_de.json (Contributed by Tzzzt123)
 
-Polish (Poland) pl_pl.json (Contributed By Martynza and krfcm)
+Pirate Speak (Pirate) en_pi.json (Contributed by Plazmaz)
 
-Spanish (Mexico) es_mx.json (Contributed By Plazmaz)
+Polish (Poland) pl_pl.json (Contributed by Martynza and krfcm)
+
+Spanish (Mexico) es_mx.json (Contributed by Plazmaz)
+
+Russian (Russia) ru_ru.json (Contributed by SumPilot)
 
 Thanks to everyone who's contributed translations!
 
