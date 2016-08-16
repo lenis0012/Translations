@@ -1,10 +1,10 @@
 # Translations for [LoginSecurity](https://github.com/lenis0012/LoginSecurity-2)
 
-## Hello, these are existing translations for LoginSecurity! If you'd like to add a language, please see the "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)"! Thanks!
+## If you'd like to add a language, please see the "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)"! Thanks!
 
 ### Existing translations for LoginSecurity:
 
-English (USA) en_us.json (Contributed by lenis0012 and Plazmaz)
+English (US) en_us.json (Contributed by lenis0012 and Plazmaz)
 
 Bulgarian (Bulgaria) bg_bg.json (Contributed by dianakiev)
 
