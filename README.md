@@ -8,6 +8,8 @@ English (US) en_us.json (Contributed by lenis0012 and Plazmaz)
 
 Bulgarian (Bulgaria) bg_bg.json (Contributed by dianakiev)
 
+Chinese (China) zh_cn.json (Contributed by JinHM)
+
 Chinese (Hong Kong) zh_hk.json (Contributed by Small-Ku)
 
 Chinese (Taiwan) zh_tw.json (Contributed by Small-Ku)
