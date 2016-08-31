@@ -1,7 +1,7 @@
 {
   "localizedName": "Español (AR)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis, Plazmaz, zuhir",
+  "authors": "zuhir",
   "generalNotAuthenticated": "No estas registrado.",
   "generalNotLoggedIn": "No has iniciado sesión.",
   "generalPasswordLength": "La contraseña debe tener entre %min% y %max% caracteres.",
