@@ -6,7 +6,7 @@
 
 English (US) en_us.json (Contributed by lenis0012 and Plazmaz)
 
-Bulgarian (Bulgaria) bg_bg.json (Contributed by dianakiev)
+Bulgarian (Bulgaria) bg_bg.json (Contributed by dyanakiev)
 
 Chinese (China) zh_cn.json (Contributed by JinHM)
 
