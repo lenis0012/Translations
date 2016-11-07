@@ -1,7 +1,7 @@
 {
   "localizedName": "Lithuanian",
   "pluginVersion": "2.1.3",
-  "authors": "lenis, Plazmaz",
+  "authors": "aliusa",
   "generalNotAuthenticated": "Jūs neužsiregistravę arba jau esatę prisijjungę!",
   "generalNotLoggedIn": "Jūs nesate prisijungę!",
   "generalPasswordLength": "Slaptažodis privalo būti nuo %min% iki %max% simbolių ilgio!",
