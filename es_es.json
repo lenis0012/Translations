@@ -19,7 +19,7 @@
   "commandError": "Error al ejecutar el comando: %error%",
   "commandUnknown": "Comando desconocido. Usa %cmd% para obtener ayuda.",
   "commandArguments": "Argumentos insuficientes. Usa %cmd% para obtener ayuda.",
-  "lacHelp": "Muestra información sobre los comandos."
+  "lacHelp": "Muestra información sobre los comandos.",
   "lacRmpass": "Retira la contraseña de usuario.",
   "lacRmpassArgs": "<usuario>",
   "lacNotRegistered": "No hay usuarios registrados con ese nombre.",
