@@ -1,7 +1,7 @@
 {
   "localizedName": "Italy (IT)",
   "pluginVersion": "2.1.3",
-  "authors": "Luca, Monteverdi",
+  "authors": "lucamonte",
   "generalNotAuthenticated": "Non sei ancora registrato!",
   "generalNotLoggedIn": "Non hai ancora effettuato l'accesso!",
   "generalPasswordLength": "La lunghezza della password deve essere compresa tra %min% e %max% caratteri!",
