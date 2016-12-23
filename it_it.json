@@ -1,7 +1,7 @@
 {
   "localizedName": "Italy (IT)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis, Plazmaz",
+  "authors": "Luca, Monteverdi",
   "generalNotAuthenticated": "Non sei ancora registrato!",
   "generalNotLoggedIn": "Non hai ancora effettuato l'accesso!",
   "generalPasswordLength": "La lunghezza della password deve essere compresa tra %min% e %max% caratteri!",
@@ -17,7 +17,7 @@
   "registerCaptcha": "Per favore, inserisci il captcha in chat!",
   "registerSuccess": "Registrato correttamente, adesso hai effettuato l'accesso.",
   "commandError": "Errore durante l'esecuzione del comando: %error%",
-  "commandUnknown": Comando sconosciuto! Usa %cmd% per aiuto.",
+  "commandUnknown": "Comando sconosciuto! Usa %cmd% per aiuto.",
   "commandArguments": "Argomenti insufficienti. Usa %cmd% per aiuto.",
   "lacHelp": "Mostra comando aiuto",
   "lacRmpass": "Rimuove la password di un utente",
