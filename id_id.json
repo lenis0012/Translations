@@ -1,7 +1,7 @@
 {
   "localizedName": "Indonesian (ID)",
   "pluginVersion": "2.1.3",
-  "authors": "lenis, Plazmaz",
+  "authors": "KimTY",
   "generalNotAuthenticated": "Kamu belum register atau belum log in.",
   "generalNotLoggedIn": "Kamu belum log in!",
   "generalPasswordLength": "Password harus diantara %min% dan %max% karakter!",
