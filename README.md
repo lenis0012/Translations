@@ -26,6 +26,8 @@ Hungarian (Hungary) hu_hu.json (Contributed by HunLux)
 
 Italian (Italy) it_it.json (Contributed by lucamonte)
 
+Indonesian (Indonesia) id_id.json (Contributed by taeyeonviernes)
+
 Lithuanian (Lithuania) lt_lt.json (Contributed by aliusa)
 
 Pirate Speak (Pirate) en_pi.json (Contributed by Plazmaz)
@@ -38,7 +40,7 @@ Spanish (Mexico) es_mx.json (Contributed by Plazmaz)
 
 Russian (Russia) ru_ru.json (Contributed by SumPilot)
 
-17 translations at the moment.
+18 translations at the moment. Let's hope we'll reach 20 in april or in may
 
 Thanks to everyone who's contributed translations!
 
