@@ -16,7 +16,7 @@ Chinese (Taiwan) zh_tw.json (Contributed by Small-Ku)
 
 Czech (Czech Republic) cs_cz.json (Contributed by Vilican)
 
-Dutch (Nederlands) nl_nl.json (Contributed by lenis0012 and Matsv)
+Dutch (Netherlands) nl_nl.json (Contributed by lenis0012 and Matsv)
 
 French (France) fr_fr.json (Contributed by Tzzzt123)
 
@@ -36,13 +36,15 @@ Pirate Speak (Pirate) en_pi.json (Contributed by Plazmaz)
 
 Polish (Poland) pl_pl.json (Contributed by Martynza and krfcm)
 
+Portuguese (Brazil) pt_br.json (Contributed by ManiaGamer)
+
 Spanish (Argentina) es_ar.json (Contributed by zuhir)
 
 Spanish (Mexico) es_mx.json (Contributed by Plazmaz)
 
 Russian (Russia) ru_ru.json (Contributed by SumPilot)
 
-19 translations at the moment. Let's hope we'll reach 20 in april or in may!
+20 translations at the moment. Yayy 20 translations reached!
 
 Thanks to everyone who's contributed translations!
 
