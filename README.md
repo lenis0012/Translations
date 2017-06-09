@@ -28,6 +28,8 @@ Italian (Italy) it_it.json (Contributed by lucamonte)
 
 Indonesian (Indonesia) id_id.json (Contributed by taeyeonviernes)
 
+Japanese (Japan) ja_jp.json (contributed by raspi0124)
+
 Latin (Roman Empire) lat_spqr.json (Contributed by Tzzzt123)
 
 Lithuanian (Lithuania) lt_lt.json (Contributed by aliusa)
