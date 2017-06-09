@@ -26,6 +26,8 @@ Hungarian (Hungary) hu_hu.json (Contributed by HunLux)
 
 Italian (Italy) it_it.json (Contributed by lucamonte)
 
+Japanese (Japan) ja_jp.json (contributed by raspi0124)
+
 Indonesian (Indonesia) id_id.json (Contributed by taeyeonviernes)
 
 Latin (Roman Empire) lat_spqr.json (Contributed by Tzzzt123)
