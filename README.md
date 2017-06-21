@@ -24,9 +24,9 @@ German (Germany) de_de.json (Contributed by Tzzzt123)
 
 Hungarian (Hungary) hu_hu.json (Contributed by HunLux)
 
-Italian (Italy) it_it.json (Contributed by lucamonte)
-
 Indonesian (Indonesia) id_id.json (Contributed by taeyeonviernes)
+
+Italian (Italy) it_it.json (Contributed by lucamonte)
 
 Japanese (Japan) ja_jp.json (contributed by raspi0124)
 
@@ -40,13 +40,17 @@ Polish (Poland) pl_pl.json (Contributed by Martynza and krfcm)
 
 Portuguese (Brazil) pt_br.json (Contributed by ManiaGamer)
 
+Slovak (Slovakia) sk_sk.json (Contributed by MrHedryX)
+
 Spanish (Argentina) es_ar.json (Contributed by zuhir)
 
 Spanish (Mexico) es_mx.json (Contributed by Plazmaz)
 
+Spanish (Spain) es_es.json (Contributed by SrAgui)
+
 Russian (Russia) ru_ru.json (Contributed by SumPilot)
 
-20 translations at the moment. Yayy 20 translations reached!
+23 translations at the moment. New target: 25 translations in the end of summer holidays!
 
 Thanks to everyone who's contributed translations!
 
