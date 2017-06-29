@@ -29,7 +29,7 @@
   "lacUnknownSource": "Nežinomas duomenų bazės tipas, prašome patikrinti wiki!",
   "lacImportFailed": "Nepavyko atlikti importo, prašome patikrinti log'ą!",
   "sessionContinue": "Tęsiate žaidimo seansą, kurį baigėte prieš %sec% sekundes.",
-  "messageLogin": "Prašome prisijungti norint naudotis komanda /login <slaptažodis>",
+  "messageLogin": "Prašome prisijungti, naudokite komandą /login <slaptažodis>",
   "messageRegister": "Prašome užsiregistruoti su komanda /register <slaptažodis>",
   "errorRefreshProfile": "Jūsų paskyra buvo koreguota, prašoma iš naujo prisijungti!",
   "errorNotRegistered": "Žaidėjas neprisiregistravęs!",
