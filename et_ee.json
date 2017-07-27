@@ -4,7 +4,7 @@
   "authors": "Bl4ckSpr4y",
   "generalNotAuthenticated": "Sa pole registreeritud või juba sisse logitud!",
   "generalNotLoggedIn": "Sa pole sisse logitud!",
-  "generalPasswordLength": "Su parool peab olema %min% kuni %max% täheline!",
+  "generalPasswordLength": "Su paroolis peab olema %min% kuni %max% tähemärki!",
   "generalUnknownHash": "Sinu konto kasutab tundmatut räsimine algorütmi, palun räägi sellest adminile.",
   "loginTriesExceeded": "Proovisid logida liiga palju vale parooliga sisse: %max%",
   "loginFail": "Sisselogimine ebaõnnestus! Vale parool!.",
