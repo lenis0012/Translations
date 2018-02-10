@@ -30,6 +30,8 @@ Italian (Italy) it_it.json (Contributed by lucamonte)
 
 Japanese (Japan) ja_jp.json (contributed by raspi0124)
 
+Korean (Korea) ko_kr.json (Contributed by Adeuran)
+
 Latin (Roman Empire) lat_spqr.json (Contributed by Tzzzt123)
 
 Lithuanian (Lithuania) lt_lt.json (Contributed by aliusa)
