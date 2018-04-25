@@ -1,14 +1,14 @@
 {
   "localizedName": "Italy (IT)",
   "pluginVersion": "2.1.3",
-  "authors": "lucamonte",
-  "generalNotAuthenticated": "Non sei ancora registrato!",
+  "authors": "gabry",
+  "generalNotAuthenticated": "Non sei registrato o hai già effettuato l'accesso!",
   "generalNotLoggedIn": "Non hai ancora effettuato l'accesso!",
   "generalPasswordLength": "La lunghezza della password deve essere compresa tra %min% e %max% caratteri!",
   "generalUnknownHash": "Il tuo account usa un algoritmo sconosciuto, per favore segnala questo problema ad un admin.",
   "loginTriesExceeded": "Hai superato il numero massimo di tentativi per il login (%max%).",
   "loginFail": "Accesso negato! Password errata!",
-  "loginSuccess": "Hai già effettuato l'accesso!",
+  "loginSuccess": "Login eseguito con successo!",
   "changeFail": "Impossibile effettuare l'operazione: password non valida!",
   "changeSuccess": "Password modificata correttamente!",
   "logoutFail": "Impossibile uscire! Errore %error%",
@@ -35,6 +35,6 @@
   "errorNotRegistered": "Utente non registrato!",
   "kickAlreadyOnline": "Un giocatore con lo stesso username è già online, riprova!",
   "kickUsernameChars": "Il tuo username contiene caratteri non consentiti!",
-  "kickUsernameLength": "Il tuo username è troppo lungo/corto (%min% - %max% chars)",
+  "kickUsernameLength": "Il tuo username è troppo lungo/corto (%min% - %max% caratteri)",
   "kickTimeOut": "Tempo per il login scaduto, riprova!"
 }
