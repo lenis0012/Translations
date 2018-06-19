@@ -28,7 +28,7 @@
   "lacImportArgs": " <sursa> [argumente]",
   "lacUnknownSource": "Baza de date nu este recunoscuta, va rugam sa verificati pe wiki!",
   "lacImportFailed": "A aparut o problema pe parcursul importari, va rugam sa verificati consola!",
-  "sessionContinue": "Se continua ultima sesiune de autentificare de acum %sec% secunde in urma.",
+  "sessionContinue": "Se continua ultima sesiune de autentificare de acum %sec% secunde.",
   "messageLogin": "Te rog sa te conectezi folosind /login <parola>",
   "messageRegister": "Te rog sa te inregistrezi folosind /register <parola>",
   "errorRefreshProfile": "Contul tau a fost modificat de o terta parte. Te rog sa reintri pe server!",
