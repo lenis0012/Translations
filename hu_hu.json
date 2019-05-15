@@ -30,7 +30,7 @@
   "lacImportFailed": "Nem sikerült az importálást végrehajtani. Kérlek nézd meg a logot!",
   "sessionContinue": "A munkamenet folytatódik %sec% másodperccel ezelőttől.",
   "messageLogin": "Kérlek jelentkezz be a '/login <jelszavad>' parancscsal",
-  "messageRegister": "Kérlek regisztrálj a '/register <jelszavad>' parancscsal",
+  "messageRegister": "Kérlek regisztrálj a '/register <jelszavad> <jelszavad> ' parancscsal",
   "errorRefreshProfile": "A fiókod harmadik fél által módosítva lett. Kérlek lépj be újra!",
   "errorNotRegistered": "Felhasználó még nem regisztrált!",
   "kickAlreadyOnline": "Már vannak fönt a szerveren ilyen névvel!",
