@@ -2,6 +2,11 @@
 
 ## If you'd like to add a language, please see the "[Contributing wiki page](https://github.com/lenis0012/Translations/wiki/Contribute)"! Thanks!
 
+## I want to update outdated translations
+You can click on a file and select the pencil icon to edit existing translations.  
+Use the following links for reference
+* [3.0.0 update](https://github.com/lenis0012/Translations/commit/3ac43f19c1088d2a4f1677eefc19a1e582097e91)
+
 ### Existing translations for LoginSecurity:
 
 English (US) en_us.json (Contributed by lenis0012 and Plazmaz)
