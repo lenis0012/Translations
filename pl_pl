@@ -1,7 +1,7 @@
 {
   "localizedName": "Polish (PL)",
   "pluginVersion": "3.0.0",
-  "authors": "Boguslaw Witek",
+  "authors": "Boguslaw Witek, Martynza, Krfcm",
   "generalNotAuthenticated": "Jeszcze sie nie zarejestrowales albo juz zalogowales!",
   "generalNotLoggedIn": "Nie jestes zalogowany!",
   "generalPasswordLength": "Haslo musi miec od %min% do %max% ilosc znakow!",
