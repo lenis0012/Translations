@@ -1,7 +1,7 @@
 {
-  "localizedName": "English (US)",
-  "pluginVersion": "3.0.0",
-  "authors": "lenis, Plazmaz",
+  "localizedName": "Turkce(Tr)",
+  "pluginVersion": "3.0.0
+  "authors": "AliAgayev",
   "generalNotAuthenticated": "Kayıtlı değilsin ya da giriş yaptın!",
   "generalNotLoggedIn": "Şu anda giriş yapmadınız!",
   "generalPasswordLength": "Şifre %min% ve %max% karakter arasında olmalıdır!",
