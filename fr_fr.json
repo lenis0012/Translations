@@ -2,7 +2,7 @@
   "localizedName": "Français (FR)",
   "pluginVersion": "3.0.1",
   "authors": "Tzzzt123, mvez73",
-  "generalNotAuthenticated": "Vous n'êtes pas encore inscrit ou tu t'es déjà identifié!",
+  "generalNotAuthenticated": "Vous n'êtes pas encore inscrit ou vous vous êtes déjà identifié!",
   "generalNotLoggedIn": "Vous n'êtes pas encore identifié!",
   "generalPasswordLength": "Les mots de passe doivent être entre %min% et %max% caractères!",
   "generalUnknownHash": "Votre compte utilise un algorithme de hachage inconnu, veuillez signaler ceci à un administrateur.",
