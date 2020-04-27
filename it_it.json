@@ -44,5 +44,6 @@
   "kickAlreadyOnline": "Un giocatore con lo stesso username è già online!",
   "kickUsernameChars": "Il tuo username contiene caratteri non consentiti!",
   "kickUsernameLength": "Il tuo username è troppo lungo/corto! (%min% - %max% caratteri)",
+  "kickUsernameRegistered": "Questo account è registrato con il nome utente %username%, utilizzalo per accedere.",
   "kickTimeOut": "Tempo per il login scaduto!"
 }
