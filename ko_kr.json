@@ -63,6 +63,8 @@
   "messageLogin": "/login <비밀번호>를 입력하여 로그인해주세요.",
 
   "messageRegister": "/register <비밀번호>를 입력하여 회원가입해주세요.",
+  
+  "messageRegister2": "/register <비밀번호> <비밀번호확인> 을 입력하여 회원가입 해주세요.",
 
   "errorRefreshProfile": "당신의 계정이 제3자로부터 수정되었습니다. 다시 로그인해주세요!",
 
