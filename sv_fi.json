@@ -42,7 +42,7 @@
   "errorNotRegistered": "Användaren är inte registrerad!",
   "errorMatchPassword": "Lösenord matchar inte, försök igen.",
   "kickAlreadyOnline": "Den här spelaren är redan online!",
-  "kickUsernameChars": "Ditt användarnamn innehåller otillåtna tecken!"",
+  "kickUsernameChars": "Ditt användarnamn innehåller otillåtna tecken!",
   "kickUsernameLength": "Ditt användarnamn är för långt/kort! (%min% - %max% tecken)",
   "kickTimeOut": "Inloggningstiden har gått ut!"
 }
