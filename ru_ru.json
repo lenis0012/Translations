@@ -1,7 +1,7 @@
 {
   "localizedName": "Русский (RU)",
-  "pluginVersion": "3.0.0",
-  "authors": "Scurovoid","Sevler"
+  "pluginVersion": "3.0.2",
+  "authors": "Scurovoid,Sevler",
   "generalNotAuthenticated": "Вы не зарегистрированы!",
   "generalNotLoggedIn": "Вы уже авторизованы!",
   "generalPasswordLength": "Пароль не может быть короче %min% и длиннее %max% символов!",
@@ -44,5 +44,6 @@
   "kickAlreadyOnline": "Такой игрок уже есть на сервере!",
   "kickUsernameChars": "Ваш никнейм использует неподдерживаемые символы!",
   "kickUsernameLength": "Ваш никнейм слишком длинный или короткий! (%min% - %max% символов)",
+  "kickUsernameRegistered": "Этот аккаунт уже зарегистрирован как %username%, пожалуйста зайдите под другим именем.",
   "kickTimeOut": "Превышено время ожидания авторизации!"
 }
