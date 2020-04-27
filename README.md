@@ -5,6 +5,7 @@
 ## I want to update outdated translations
 You can click on a file and select the pencil icon to edit existing translations.  
 Use the following links for reference
+* [3.0.1 update](https://github.com/lenis0012/Translations/commit/480c39f01663d18cec095ad95f08f62654b35944)
 * [3.0.0 update](https://github.com/lenis0012/Translations/commit/3ac43f19c1088d2a4f1677eefc19a1e582097e91)
 
 ### Existing translations for LoginSecurity:
