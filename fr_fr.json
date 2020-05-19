@@ -8,7 +8,7 @@
   "generalUnknownHash": "Votre compte utilise un algorithme de hachage inconnu, veuillez signaler ceci à un administrateur.",
   "loginTriesExceeded": "Nombre maximal d'essais de connexion dépassé: %max%",
   "loginFail": "Échec de la connexion! Mot de passe incorrect.",
-  "loginSuccess": "Connecté avec succès.",
+  "loginSuccess": "ConnectÃ© avec succÃ¨s.",
   "changeFail": "Changement impossible, mot de passe incorrect!",
   "changeSuccess": "Mot de passe changé avec succès!",
   "logoutFail": "Déconnexion impossible! %error%",
