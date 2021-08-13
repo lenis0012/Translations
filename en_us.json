@@ -34,6 +34,8 @@
   "lacImportArgs": "<source> [args]",
   "lacUnknownSource": "Unknown database type, please check the wiki!",
   "lacImportFailed": "Couldn't perform import, please check log!",
+  "lacReload": "Reload configuration",
+  "lacReloadSuccess": "Reloaded configuration, some changed may not apply until restart.",
   "sessionContinue": "Your last login session was continued from %sec% seconds ago.",
   "messageLogin": "Please log in using /login <password>",
   "messageRegister": "Please register using /register <password>",
