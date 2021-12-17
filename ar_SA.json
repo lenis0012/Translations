@@ -1,7 +1,7 @@
 {
   "localizedName": "Arabic (Saudi Arabia)",
   "pluginVersion": "3.0.0",
-  "authors": "فايبر أحمد",
+  "authors": "FiberAhmed",
   "generalNotAuthenticated": "أنت غير مُسجل أو قمت بتسجيل الدخول بالفعل!",
   "generalNotLoggedIn": "حاليًا، أنت لم تقم بتسجيل الدخول!",
   "generalPasswordLength": "يجب أن تكون كلمة المرور بين %min% و %max% حرف!",
