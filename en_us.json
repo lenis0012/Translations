@@ -43,6 +43,7 @@
   "errorRefreshProfile": "Your account was modified by a third party, please rejoin!",
   "errorNotRegistered": "User is not registered!",
   "errorMatchPassword": "Passwords do not match, please try again.",
+  "errorPasswordSameAsUsername": "You can't use your username as a password!",
   "kickAlreadyOnline": "This player is already online!",
   "kickUsernameChars": "Your username contains illegal characters!",
   "kickUsernameLength": "Your username is too long/short! (%min% - %max% chars)",
