@@ -1,6 +1,6 @@
 {
   "localizedName": "Vietnamese (VN)",
-  "pluginVersion": "3.0.0",
+  "pluginVersion": "3.1.1",
   "authors": "CaoGiaHao ",
   "generalNotAuthenticated": "Bạn chưa đăng ký",
   "generalNotLoggedIn": "Bạn chưa đăng nhập",
@@ -11,8 +11,8 @@
   "loginSuccess": "Đăng nhập thành công",
   "changeFail": "Sai mật khẩu",
   "changeSuccess": "Đổi mật khẩu thành công!",
-  "logoutFail": "Không thể đăng suất %error%",
-  "logoutSuccess": "Gạn đã đăng xuất thành công!",
+  "logoutFail": "Không thể đăng xuất %error%",
+  "logoutSuccess": "Bạn đã đăng xuất thành công!",
   "registerAlready": "Tài khoản này đã có người sử dụng",
   "registerCaptcha": "Hãy nhập mã xác nhận trên chat!",
   "registerSuccess": "Đăng nhập thành công",
