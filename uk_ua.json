@@ -3,7 +3,7 @@
     "pluginVersion": "3.0.2",
     "authors": "IsPlayer",
     "generalNotAuthenticated": "Ви не зареєстровані",
-    "generalNotLoggedIn": "Ви успышно увійшли!",
+    "generalNotLoggedIn": "Ви успішно увійшли!",
     "generalPasswordLength": "Пароль не може бути короче %min% та більше %max% символів!",
     "generalUnknownHash": "Помилка шифру, повідомте адміністрації.",
     "loginTriesExceeded": "Перевищено спроб входу: %max%",
