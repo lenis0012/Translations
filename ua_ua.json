@@ -1,6 +1,6 @@
 {
   "localizedName": "Українська (UA)",
-  "pluginVersion": "3.0.2",
+  "pluginVersion": "3.1",
   "authors": "Yarnom7767",
   "generalNotAuthenticated": "Ви не зареєстровані!",
   "generalNotLoggedIn": "Ви вже авторизований!",
@@ -34,6 +34,8 @@
   "lacImportArgs": "<джерело> [аргументи]",
   "lacUnknownSource": "Невідома база даних, зверніться за допомогою у вікі!",
   "lacImportFailed": "Імпорт неможливен! Перевірте лог-файл!",
+  "lacReload": "Перезавантажити конфігурацію",
+  "lacReloadSuccess": "Конфігурація перезавантажена, деякі зміни потребують рестарту.",
   "sessionContinue": "ВВаша остання активність відбувалася %sec% секунд назад. Авторизація не потрібна.",
   "messageLogin": "Будь ласка, авторизуйтесь. /login <пароль>",
   "messageRegister": "Будь ласка, зареєструйтесь. /register <пароль>",
