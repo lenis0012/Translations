@@ -31,6 +31,7 @@
   "sessionContinue": "Bienvenido. Tu sesión sigue abierta desde hace %sec% segundos.",
   "messageLogin": "Inicia sesión usando /login <contraseña>",
   "messageRegister": "Registrate usando /register <contraseña>",
+  "messageRegister2": "Registrate usando /register <contraseña> <repita contraseña>",
   "errorRefreshProfile": "Tu cuenta ha sido modificada por terceros, vuelve a iniciar sesión, por favor.",
   "errorNotRegistered": "Cuenta no registrada.",
   "kickAlreadyOnline": "El usuario ya está en línea.",
