@@ -1,7 +1,7 @@
 {
   "localizedName": "Türkçe (TR)",
   "pluginVersion": "3.1",
-  "authors": "lenis, Plazmaz, Cengizhan Aral",
+  "authors": "ertankanur, Cengizhan Aral",
   "generalNotAuthenticated": "Kayıt olmadınız veya zaten giriş yaptınız!",
   "generalNotLoggedIn": "Zaten giriş yapmışsınız!",
   "generalPasswordLength": "Şifre %min%-%max% karakter arasında olmalıdır!",
