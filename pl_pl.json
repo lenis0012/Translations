@@ -45,6 +45,7 @@
   "kickUsernameChars": "Twoj nick zawiera niedozwolone znaki!",
   "kickUsernameLength": "Twoj nick zawiera nieodpowiednia liczbe znakow! (wymagane %min% - %max% znakow)",
   "kickUsernameRegistered": "To konto jest zarejestrowane pod nazwa %username%, zaloguj sie jako ta osoba.",
-  "kickTimeOut": "Minal czas logowania!"
-  "banAlreadyOnline": "Zbanowano przez probe podszycia pod "
+  "kickTimeOut": "Minal czas logowania!",
+  "banAlreadyOnline": "Zbanowano przez probe podszycia pod ",
+  "banBruteforceAttempt": "Zbanowano przez naduzycia loginowe dla konta "
 }

@@ -48,5 +48,6 @@
   "kickUsernameLength": "Your username is too long/short! (%min% - %max% chars)",
   "kickUsernameRegistered": "This account is registered under the name %username%, please log in as such.",
   "kickTimeOut": "Login timed out!",
-  "banAlreadyOnline": "Banned due to impersonation attempt on "
+  "banAlreadyOnline": "Banned due to impersonation attempt on ",
+  "banBruteforceAttempt": "Banned for attempting to bruteforce the password for account "
 }
