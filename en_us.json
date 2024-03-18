@@ -1,7 +1,7 @@
 {
   "localizedName": "English (US)",
   "pluginVersion": "3.0.0",
-  "authors": "lenis, Plazmaz",
+  "authors": "lenis, Plazmaz, sxvghd",
   "generalNotAuthenticated": "You are not registered or already logged in!",
   "generalNotLoggedIn": "You are currently not logged in!",
   "generalPasswordLength": "Password must be between %min% and %max% characters!",
@@ -47,5 +47,6 @@
   "kickUsernameChars": "Your username contains illegal characters!",
   "kickUsernameLength": "Your username is too long/short! (%min% - %max% chars)",
   "kickUsernameRegistered": "This account is registered under the name %username%, please log in as such.",
-  "kickTimeOut": "Login timed out!"
+  "kickTimeOut": "Login timed out!",
+  "banAlreadyOnline": "Banned due to impersonation attempt on "
 }
