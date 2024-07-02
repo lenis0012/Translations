@@ -20,7 +20,7 @@
   "unregisterFail": "Hủy đăng ký thất bại, sai mật khẩu",
   "unregisterNotPossible": "Bạn không thể đổi mật khẩu trên máy chủ này",
   "commandError": "Đã phát sinh lỗi: %error%",
-  "commandUnknown": "Lệnh không xác định, nhấn %cmd% để được giúp đỡ"
+  "commandUnknown": "Lệnh không xác định, nhấn %cmd% để được giúp đỡ",
   "commandArguments": "Lệnh không đúng. Ấn %cmd% để được giúp đỡ",
   "lacHelp": "Hiển thị lệnh giúp đỡ",
   "lacRmpass": "Xóa mật khẩu",
