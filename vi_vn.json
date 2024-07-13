@@ -1,6 +1,6 @@
 {
   "localizedName": "Vietnamese (VN)",
-  "pluginVersion": "3.2.1",
+  "pluginVersion": "3.3.0",
   "authors": "CaoGiaHao & ChouwZi",
   "generalNotAuthenticated": "Bạn chưa đăng ký",
   "generalNotLoggedIn": "Bạn chưa đăng nhập",
@@ -18,9 +18,9 @@
   "registerSuccess": "Đăng nhập thành công",
   "unregisterSuccess": "Hủy đăng ký thành công",
   "unregisterFail": "Hủy đăng ký thất bại, sai mật khẩu",
-  "unregisterNotPossible": "Bạn không thể đổi mật khẩu trên máy chủ này",
+  "unregisterNotPossible": "Bạn không thểg đổi mật khẩu trên máy chủ này",
   "commandError": "Đã phát sinh lỗi: %error%",
-  "commandUnknown": "Lệnh không xác định, nhấn %cmd% để được giúp đỡ"
+  "commandUnknown": "Lệnh không xác định, nhấn %cmd% để được giúp đỡ",
   "commandArguments": "Lệnh không đúng. Ấn %cmd% để được giúp đỡ",
   "lacHelp": "Hiển thị lệnh giúp đỡ",
   "lacRmpass": "Xóa mật khẩu",
@@ -34,6 +34,8 @@
   "lacImportArgs": "<source> [args]",
   "lacUnknownSource": "Kiểu database không hợp lệ, hãy xem trên wiki!",
   "lacImportFailed": "Không thể thực hiện nhập dữ liệu, hãy kiểm tra log!",
+  "lacReload": "Đã tải lại cấu hình",
+  "lacReloadSuccess": "Đã tải lại cấu hình, một số thay đổi cần khởi động lại để áp dụng.",
   "sessionContinue": "Lần cuối cùng bạn đăng nhập là khoảng %sec% giây trước",
   "messageLogin": "Hãy đăng nhập bằng cách ấn /login <mật khẩu>",
   "messageRegister": "Hãy đăng ký bằng cách ấn /register <mật khẩu>",
@@ -44,5 +46,6 @@
   "kickAlreadyOnline": "Người chơi này đang online trên máy chủ",
   "kickUsernameChars": "Tên có kí tự không hợp lệ",
   "kickUsernameLength": "Tên của bạn quá ngắn/dài (chấp nhận từ %min% đến %max% ký tự)",
+  "kickUsernameRegistered": "Tài khoản này được đăng ký dưới tên %username%, vui lòng đăng nhập như vậy.",
   "kickTimeOut": "Hết thời gian đăng nhập"
 }
