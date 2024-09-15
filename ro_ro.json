@@ -20,8 +20,8 @@
   "unregisterFail": "Nu s-a putut anula înregistrarea, parolă nevalidă!",
   "unregisterNotPossible": "Nu vă puteți anula înregistrarea pe acest server.",
   "commandError": "Eroare la executarea comenzii: %error%",
-  "commandUnknown": "Comanda necunoscuta! Folositi %cmd% pentru ajutor.",
-  "commandArguments": "Argumente insuficiente! Foloseste %cmd% pentru ajutor.",
+  "commandUnknown": "Comandă necunoscută! Folosiți %cmd% pentru ajutor.",
+  "commandArguments": "Argumente insuficiente! Folosește %cmd% pentru ajutor.",
   "lacHelp": "Afișează ajutorul comenzii",
   "lacRmpass": "Eliminați parola unui utilizator",
   "lacRmpassArgs": "<Numejucator>",
@@ -34,8 +34,8 @@
   "lacImportArgs": "<sursa> [argumente]",
   "lacUnknownSource": "Tip necunoscut de bază de date, vă rugăm să verificați https://github.com/lenis0012/LoginSecurity-2/wiki",
   "lacImportFailed": "Nu s-a putut efectua importul, vă rugăm să verificați jurnalul!",
-  "lacReload": "Reincarcati configuratia",
-  "lacReloadSuccess": "Configurație reîncărcată, unele modificari pot să nu se aplice până la repornire.",
+  "lacReload": "Reîncărcați configurația",
+  "lacReloadSuccess": "Configurație reîncărcată, unele modificări pot să nu se aplice până la repornire.",
   "sessionContinue": "Ultima dvs. sesiune de conectare a fost continuată de la %sec% secunde in urma.",
   "messageLogin": "Vă rugăm să vă conectați folosind /login <parolă>",
   "messageRegister": "Vă rugăm să vă înregistrați folosind /register <parolă>",
@@ -44,8 +44,8 @@
   "errorNotRegistered": "Utilizatorul nu este înregistrat!",
   "errorMatchPassword": "Parolele nu se potrivesc, vă rugăm să încercați din nou.",
   "kickAlreadyOnline": "Acest jucător este deja online!",
-  "kickUsernameChars": "Numele dumneavostră de utilizator conține caractere nepermise!",
+  "kickUsernameChars": "Numele tău de utilizator conține caractere nepermise!",
   "kickUsernameLength": "Numele tău de utilizator este prea lung/scurt! (%min% - %max% caractere)",
   "kickUsernameRegistered": "Acest cont este înregistrat sub numele de %username%, vă rugăm să vă conectați ca atare.",
-  "kickTimeOut": "Reconecteaza-te,ai luat timeout!"
+  "kickTimeOut": "Autentificarea a expirat!"
 }
