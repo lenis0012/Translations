@@ -30,7 +30,7 @@
   "lacImportFailed": "Nelze provést import databáze, zkontrolujte záznam!",
   "sessionContinue": "Poslední přihlášení pokračuje, je staré %sec% sekund.",
   "messageLogin": "Přihlaste se příkazem: /login <heslo>",
-  "messageRegister": "Zaregistrujte se příkazem: /register <heslo>",
+  "messageRegister": "Zaregistrujte se příkazem: /register <heslo> <ZnovuHeslo>",
   "errorRefreshProfile": "Váš účet byl modifikován třetí stranou, přihlaste se znovu!",
   "errorNotRegistered": "Uživatel není registrován!",
   "kickAlreadyOnline": "Tento hráč je již online!",
