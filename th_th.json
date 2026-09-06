@@ -1,7 +1,7 @@
 {
   "localizedName": "ไทย",
   "pluginVersion": "3.0.0",
-  "authors": "MePannatad",
+  "authors": "MePannathat",
   "generalNotAuthenticated": "คุณยังไม่ได้ลงทะเบียน หรือคุณกำลังอยู่ในระบบแล้วในขณะนี้",
   "generalNotLoggedIn": "คุณยังไม่ได้เข้าสู่ระบบในขณะนี้",
   "generalPasswordLength": "รหัสผ่านต้องมีจำนวนระหว่าง %min% ถึง %max% ตัวอักษร",
